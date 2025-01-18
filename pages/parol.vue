@@ -20,7 +20,7 @@ const { handleSubmit } = useForm({
   validationSchema: schema,
 });
 
-const changePassword = (values) => {
+function changePassword(values){
   console.log("Password changed with values:", values);
 };
 </script>
