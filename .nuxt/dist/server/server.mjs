@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Administrator/Desktop/chess%20market/node_modules/.pnpm/@nuxt+vite-builder@3.15.1_@types+node@22.10.5_eslint@9.18.0_jiti@2.4.2__magicast@0.3.5_option_id44htr5tt64tvs6mtbfpdi4ke/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
