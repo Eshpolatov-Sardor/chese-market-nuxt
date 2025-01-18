@@ -38,8 +38,8 @@ function toggleFavorite() {
                 <NuxtImg
                   :src="
                     state.isFavorite
-                      ? '../public/yellow_love.png'
-                      : '../public/love.png'
+                      ? '/yellow_love.png'
+                      : '/love.png'
                   "
                   class="w-6 h-6"
                 />
@@ -70,15 +70,15 @@ function toggleFavorite() {
             </div>
             <div>
               <span class="flex gap-2 items-center mt-12">
-                <NuxtImg class="w-6 h-6" src="../public/money-64.png" />
+                <NuxtImg class="w-6 h-6" src="/money-64.png" />
                 <p>Возвращаем 10% бонусами</p>
               </span>
               <span class="flex gap-2 items-center mt-6">
-                <NuxtImg class="w-6 h-6" src="../public/paymint.png" />
+                <NuxtImg class="w-6 h-6" src="/paymint.png" />
                 <p>Удобные способы оплаты</p>
               </span>
               <span class="flex gap-2 items-center mt-6">
-                <NuxtImg class="w-6 h-6" src="../public/protect-80.png" />
+                <NuxtImg class="w-6 h-6" src="/protect-80.png" />
                 <p>Гарантия качества</p>
               </span>
             </div>

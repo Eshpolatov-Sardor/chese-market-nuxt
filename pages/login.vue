@@ -82,22 +82,22 @@ function storeInLocalStorage(values) {
         <div
           class="flex-1 mx-1 p-2 bg-blue-400 border rounded flex items-center justify-between"
         >
-          <NuxtImg src="../public/google.png" />
+          <NuxtImg src="/google.png" />
           Войти через Google
           <div></div>
         </div>
         <div
           class="flex-1 mx-1 p-2 gap-2 bg-blue-400 border rounded flex items-center justify-center"
         >
-          <NuxtImg src="../public/vk-com.png" />
+          <NuxtImg src="/vk-com.png" />
           Войти с VK ID
         </div>
         <div
           class="flex-1 mx-1 p-2 bg-gray-800 border rounded flex items-center justify-between"
         >
-          <NuxtImg src="../public/yandex.png" />
+          <NuxtImg src="/yandex.png" />
           Войти с Яндекс ID
-          <NuxtImg class="w-8" src="../public/user-100.png" />
+          <NuxtImg class="w-8" src="/user-100.png" />
         </div>
       </div>
     </div>

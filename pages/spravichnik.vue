@@ -112,8 +112,8 @@ function toggleDropdown(index: number) {
           <NuxtImg
             :src="
               dropdown.isVisible
-                ? '../public/down-arrow.png'
-                : '../public/right-arrow-angle.png'
+                ? '/down-arrow.png'
+                : '/right-arrow-angle.png'
             "
             alt="Arrow Icon"
             class="w-4 h-4 transform transition-transform"

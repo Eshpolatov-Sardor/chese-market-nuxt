@@ -13,7 +13,7 @@ const zoom = ref(14);
           <div class="bg-white w-[300px] py-6 px-6 rounded-lg border">
             <NuxtImg
               class="w-16 h-16 bg-yellow-500 p-4 rounded-full"
-              src="../public/paymit3.png"
+              src="/paymit3.png"
             />
             <div>
               <h1 class="text-xl font-semibold mb-2 py-4">
@@ -29,7 +29,7 @@ const zoom = ref(14);
           <div class="bg-white w-[300px] py-6 px-6 rounded-lg border">
             <NuxtImg
               class="w-16 h-16 bg-yellow-500 p-4 rounded-full"
-              src="../public/paymit3.png"
+              src="/paymit3.png"
             />
             <div>
               <h1 class="text-xl font-semibold mb-2 py-4">
@@ -45,7 +45,7 @@ const zoom = ref(14);
           <div class="bg-white w-[300px] py-6 px-6 rounded-lg border">
             <NuxtImg
               class="w-16 h-16 bg-yellow-500 p-4 rounded-full"
-              src="../public/paymit3.png"
+              src="/paymit3.png"
             />
             <div>
               <h1 class="text-xl font-semibold mb-2 py-4">
@@ -93,7 +93,7 @@ const zoom = ref(14);
         </div>
         <div class="flex gap-6 mt-8">
           <span>
-            <NuxtImg class="w-[400px]" src="../public/dastovka_img.png" />
+            <NuxtImg class="w-[400px]" src="/dastovka_img.png" />
           </span>
           <span>
             <h1 class="text-3xl mb-6">Доставка по России</h1>

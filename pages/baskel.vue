@@ -31,7 +31,7 @@ function submit(values) {
         v-if="cartStore.cart.length === 0"
         class="text-center text-lg text-gray-500 mt-6 flex flex-col justify-center gap-10 items-center"
       >
-        <NuxtImg class="w-full rounded-lg" src="../public/gif/basket.gif" />
+        <NuxtImg class="w-full rounded-lg" src="/gif/basket.gif" />
       </div>
 
       <div v-else class="flex flex-col justify-center gap-6">
@@ -65,7 +65,7 @@ function submit(values) {
               @click="cartStore.removeFromCart(item._id)"
               class="text-white flex items-center justify-center w-12 h-12 rounded"
             >
-              <NuxtImg src="../public/delete.png" />
+              <NuxtImg src="/delete.png" />
             </button>
           </div>
         </div>

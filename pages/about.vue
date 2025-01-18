@@ -17,7 +17,7 @@
             </p>
           </span>
           <span>
-            <NuxtImg class="w-[450px] h-[300px]" src="../public/chesee.png" />
+            <NuxtImg class="w-[450px] h-[300px]" src="/chesee.png" />
           </span>
         </div>
         <h1 class="text-3xl font-bold mt-8 opacity-60">
@@ -28,7 +28,7 @@
             <div class="text-orange-500 text-3xl">
               <NuxtImg
                 class="w-[50px] h-[50px] mb-4"
-                src="../public/phone-50.png"
+                src="/phone-50.png"
               />
             </div>
             <p class="text-gray-700">
@@ -40,7 +40,7 @@
             <div class="text-orange-500 text-3xl">
               <NuxtImg
                 class="w-[50px] h-[50px] mb-4"
-                src="../public/protect-80.png"
+                src="/protect-80.png"
               />
             </div>
             <p class="text-gray-700">
@@ -52,7 +52,7 @@
             <div class="text-orange-500 text-3xl">
               <NuxtImg
                 class="w-[50px] h-[50px] mb-4"
-                src="../public/web-50.png"
+                src="/web-50.png"
               />
             </div>
             <p class="text-gray-700">
@@ -64,7 +64,7 @@
             <div class="text-orange-500 text-3xl">
               <NuxtImg
                 class="w-[50px] h-[50px] mb-4"
-                src="../public/money-64.png"
+                src="/money-64.png"
               />
             </div>
             <p class="text-gray-700">
@@ -122,10 +122,10 @@
           </p>
         </div>
         <div class="w-2/4 grid grid-cols-2 gap-4">
-          <img src="../public/chesee.png" alt="Cheese 1" class="rounded-lg" />
-          <img src="../public/chesee.png" alt="Cheese 2" class="rounded-lg" />
-          <img src="../public/chesee.png" alt="Cheese 3" class="rounded-lg" />
-          <img src="../public/chesee.png" alt="Cheese 4" class="rounded-lg" />
+          <img src="/chesee.png" alt="Cheese 1" class="rounded-lg" />
+          <img src="/chesee.png" alt="Cheese 2" class="rounded-lg" />
+          <img src="/chesee.png" alt="Cheese 3" class="rounded-lg" />
+          <img src="/chesee.png" alt="Cheese 4" class="rounded-lg" />
         </div>
       </div>
     </div>

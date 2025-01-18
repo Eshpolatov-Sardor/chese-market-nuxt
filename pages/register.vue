@@ -68,19 +68,19 @@ defineExpose({ submit });
           Делайте покупки быстро и удобно, отслеживайте статус заказа и
           получайте скидки.
         </p>
-        <NuxtImg class="mt-10" src="../public/phone-50.png" alt="Google" />
+        <NuxtImg class="mt-10" src="/phone-50.png" alt="Google" />
         <h2 class="text-2xl font-bold mb-4 py-2">Возвращаем 10% бонусами</h2>
         <p class="mb-4">
           При заказе на сумму от 3500 руб. и весе до 3 кг. предоставляется
           бесплатная доставка по всей России
         </p>
-        <NuxtImg class="mt-10" src="../public/protect-80.png" alt="Google" />
+        <NuxtImg class="mt-10" src="/protect-80.png" alt="Google" />
         <h2 class="text-2xl font-bold mb-4 py-2">Возвращаем 10% бонусами</h2>
         <p class="mb-4">
           При заказе на сумму от 3500 руб. и весе до 3 кг. предоставляется
           бесплатная доставка по всей России
         </p>
-        <NuxtImg class="mt-10" src="../public/money-64.png" alt="Google" />
+        <NuxtImg class="mt-10" src="/money-64.png" alt="Google" />
         <h2 class="text-2xl font-bold mb-4 py-2">Удобные способы оплаты</h2>
         <p class="mb-4">
           При заказе на сумму от 3500 руб. и весе до 3 кг. предоставляется
@@ -154,22 +154,22 @@ defineExpose({ submit });
         <div
           class="flex-1 mx-1 p-2 bg-blue-400 border rounded flex items-center justify-between"
         >
-          <NuxtImg src="../public/google.png" alt="Google" />
+          <NuxtImg src="/google.png" alt="Google" />
           Войти через Google
           <div></div>
         </div>
         <div
           class="flex-1 mx-1 p-2 gap-2 bg-blue-400 border rounded flex items-center justify-center"
         >
-          <NuxtImg src="../public/vk-com.png" alt="VK" />
+          <NuxtImg src="/vk-com.png" alt="VK" />
           Войти с VK ID
         </div>
         <div
           class="flex-1 mx-1 p-2 bg-gray-800 border rounded flex items-center justify-between"
         >
-          <NuxtNuxtImg src="../public/yandex.png" alt="Yandex" />
+          <NuxtNuxtImg src="/yandex.png" alt="Yandex" />
           Войти с Яндекс ID
-          <NuxtImg class="w-8" src="../public/user-100.png" alt="User" />
+          <NuxtImg class="w-8" src="/user-100.png" alt="User" />
         </div>
         <div>
           <Input

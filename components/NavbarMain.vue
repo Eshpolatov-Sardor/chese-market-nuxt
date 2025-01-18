@@ -22,7 +22,7 @@ onMounted(() => {
   <div>
     <header class="flex justify-between items-center py-1 font-sans text-xxs">
       <div class="flex gap-2">
-        <NuxtImg class="w-6" src="../public/clock.png" />
+        <NuxtImg class="w-6" src="/clock.png" />
         <p>Пн-Пт 9:00 - 18:00</p>
       </div>
       <div class="flex gap-8">
@@ -30,7 +30,7 @@ onMounted(() => {
         <NuxtLink to="akcionnye">Акционные товары</NuxtLink>
 
         <div class="flex gap-2 cursor-pointer">
-          <NuxtImg class="w-6" src="../public/user.png" />
+          <NuxtImg class="w-6" src="/user.png" />
           <template v-if="!isLoggedIn">
             <NuxtLink to="login">Войти в аккаунт</NuxtLink>
           </template>
@@ -48,7 +48,7 @@ onMounted(() => {
         <NuxtLink to="/">
           <NuxtImg
             class="w-[200px] h-[60px]"
-            src="../public/chess_market.png"
+            src="/chess_market.png"
             alt="Logo"
           />
         </NuxtLink>
@@ -56,7 +56,7 @@ onMounted(() => {
       <ul class="flex space-x-4 justify-evenly items-center">
         <li class="flex items-center space-x-2 w-40">
           <NuxtImg
-            src="../public//delivery-06 1.png"
+            src="//delivery-06 1.png"
             alt="Logo"
             class="mr-2 w-8 h-8"
           />
@@ -68,7 +68,7 @@ onMounted(() => {
         </li>
         <li class="flex items-center space-x-2 w-44">
           <NuxtImg
-            src="../public/credit-card-repeat 1.png"
+            src="/credit-card-repeat 1.png"
             alt="Logo"
             class="mr-2 w-8 h-8"
           />
@@ -80,7 +80,7 @@ onMounted(() => {
         </li>
         <li class="flex items-center space-x-2 w-32">
           <NuxtImg
-            src="../public/user-protection-shield-square 1.png"
+            src="/user-protection-shield-square 1.png"
             alt="Logo"
             class="mr-2 w-8 h-8"
           />
@@ -93,17 +93,17 @@ onMounted(() => {
         <li class="flex items-center space-x-2">
           <NuxtImg
             class="w-[24px] h-[24px]"
-            src="../public/telegram.png"
+            src="/telegram.png"
             alt="Logo"
           />
           <NuxtImg
             class="w-[24px] h-[24px]"
-            src="../public/watsapp.png"
+            src="/watsapp.png"
             alt="Logo"
           />
           <NuxtImg
             class="w-[24px] h-[24px]"
-            src="../public/messinge.png"
+            src="/messinge.png"
             alt="Logo"
           />
         </li>
@@ -115,7 +115,7 @@ onMounted(() => {
             >
               <NuxtImg
                 class="w-[24px] h-[24px]"
-                src="../public/mobile.png"
+                src="/mobile.png"
                 alt="Logo"
               />
               <a href="tel:+998940217978">Заказать звонок</a>
@@ -159,12 +159,12 @@ onMounted(() => {
             to="">Рецепты</NuxtLink>
           <NuxtImg
             class="w-[12px] h-[12px] mt-1 group-hover:hidden"
-            src="../public/down-arrow.png"
+            src="/down-arrow.png"
             alt="Logo"
           />
           <NuxtImg
             class="w-[12px] h-[12px] mt-1 hidden group-hover:block"
-            src="../public/up-arrow.png"
+            src="/up-arrow.png"
             alt="Logo"
           />
           <div
@@ -246,7 +246,7 @@ onMounted(() => {
       <div
         class="flex items-center space-x-2 group border border-black rounded-lg p-1 opacity-35"
       >
-        <NuxtImg class="w-[24px] h-[24px]" src="../public/search.png" />
+        <NuxtImg class="w-[24px] h-[24px]" src="/search.png" />
         <InputEntry type="text" />
       </div>
     </main>

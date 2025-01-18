@@ -3,7 +3,7 @@
     class="m-5 flex justify-between gap-2 font-sans text-md font-thin text-gray-700 pb-10"
   >
     <div>
-      <NuxtImg class="w-[200px]" src="../public/chess_market.png" />
+      <NuxtImg class="w-[200px]" src="/chess_market.png" />
       <p class="mt-2 w-72">Все материалы данного сайта являются объектами авторского права.</p>
     </div>
     <div class="flex flex-col gap-2">
@@ -25,11 +25,11 @@
     </div>
     <div class="flex flex-col gap-2">
       <h1 class="text-xl font-bold">Способы оплаты</h1>
-      <NuxtImg src="../public/visa.png" />
-      <NuxtImg src="../public/mastercard.png" />
-      <NuxtImg src="../public/maestro.png" />
-      <NuxtImg src="../public/unionpay.png" />
-      <NuxtImg src="../public/maestro.png" />
+      <NuxtImg src="/visa.png" />
+      <NuxtImg src="/mastercard.png" />
+      <NuxtImg src="/maestro.png" />
+      <NuxtImg src="/unionpay.png" />
+      <NuxtImg src="/maestro.png" />
     </div>
   </div>
 </template>

@@ -120,7 +120,7 @@ const products = cart.products;
         обеспечит вас всем необходимым для сыроварения дома. Оформляйте заказ
         онлайн и купите товары для сыроделия на сайте сейчас.
       </p>
-      <!-- <div class="mt-4" style="background-image: url('../public/bg_image.jpg'); background-size: 50%; background-position: center;">
+      <!-- <div class="mt-4" style="background-image: url('/bg_image.jpg'); background-size: 50%; background-position: center;">
         <h1 class="text-amber-500 text-2xl mt-4">Купить сыр в интернет-магазине Сыромир в Москве</h1>
       </div> -->
     </div>
