@@ -4,7 +4,7 @@
   >
     <div>
       <NuxtImg class="w-[200px]" src="/chess_market.png" />
-      <p class="mt-2 w-72">Все материалы данного сайта являются объектами авторского права.</p>
+      <p class="mt-2 w-72">Все материалы данного сайта являются объектами авторского права. Ahmadaaliyov Samandar</p>
     </div>
     <div class="flex flex-col gap-2">
       <h1 class="text-xl font-bold">Компания</h1>
